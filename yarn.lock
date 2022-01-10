@@ -4288,6 +4288,11 @@
     "use-callback-ref" "^1.2.1"
     "use-sidecar" "^1.0.1"
 
+"react-icons@^4.3.1":
+  "integrity" "sha512-cB10MXLTs3gVuXimblAdI71jrJx8njrJZmNMEMC+sQu5B/BIOmlsAjskdqpn81y8UBVEGuHODd7/ci5DvoSzTQ=="
+  "resolved" "https://registry.npmjs.org/react-icons/-/react-icons-4.3.1.tgz"
+  "version" "4.3.1"
+
 "react-is@^16.7.0", "react-is@^16.8.1", "react-is@16.13.1":
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
@@ -4306,7 +4311,7 @@
     "@babel/runtime" "^7.3.1"
     "prop-types" "^15.5.8"
 
-"react@^15.3.0 || ^16.0.0", "react@^16.13.1", "react@^16.4.0", "react@^16.6.0", "react@^16.8.0", "react@^16.8.4", "react@^16.9.0", "react@>= 16.8", "react@>= 16.8.0", "react@>=15.6.2", "react@>=16.3.0", "react@15.x.x || 16.x.x", "react@16.13.1":
+"react@*", "react@^15.3.0 || ^16.0.0", "react@^16.13.1", "react@^16.4.0", "react@^16.6.0", "react@^16.8.0", "react@^16.8.4", "react@^16.9.0", "react@>= 16.8", "react@>= 16.8.0", "react@>=15.6.2", "react@>=16.3.0", "react@15.x.x || 16.x.x", "react@16.13.1":
   "integrity" "sha512-YMZQQq32xHLX0bz5Mnibv1/LHb3Sqzngu7xstSM+vrkE5Kzr9xE0yMByK5kMoTK30YVJE61WfbxIFFvfeDKT1w=="
   "resolved" "https://registry.npmjs.org/react/-/react-16.13.1.tgz"
   "version" "16.13.1"
